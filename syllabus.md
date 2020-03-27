@@ -1,20 +1,19 @@
 # Physics 177: Computational Physics
-### Winter 2019
+### Spring 2020
 
 
 # Logistics
 
 ### Lecture
-MWF 5:10pm - 6:00pm, Physics 2111  
-Note: Computational work will be performed online and on your own computers, so we will *not* be using the computer labs.  
+TBD!
 
 ### Instructor
 Prof. John P. Barton  
-Materials Science and Engineering 234  
+MRB 3116  
 john.barton@ucr.edu  
 
 ### Office hours
-By appointment
+TBD!
 
 
 # Course summary
@@ -32,8 +31,16 @@ We will use [Python 3](https://www.python.org/download/releases/3.0/) to introdu
 # Grading and assessment
 Credit will be assigned as follows:
 - homework (40%)  
-- in-class work and participation (20%)
-- midterm exam (15%)  
-- final exam (25%)  
+- participation in labs and class discussion (20%)  
+- midterm project (20%)  
+- final project (20%)  
+
+### Grading scale
+Grades for each assignment and project will follow a four point scale:
+- 0 -- no submission  
+- 1 -- some work, but the assignment/project is mostly incomplete  
+- 2 -- the assignment/project is mostly complete, but with major errors  
+- 3 -- the assignment/project is complete, with moderate errors  
+- 4 -- the assignment/project is complete with only minor errors  
 
 I encourage you to freely collaborate with other students on homework and projects.

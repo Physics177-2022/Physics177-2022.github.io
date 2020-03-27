@@ -1,50 +1,44 @@
 # Physics 177: Computational Physics
-### Winter 2019
+### Spring 2020
 
-**Course overview**  
-Jan 07 (M) - Introduction to PHYS 177  
-Jan 09 (W) - Python, Jupyter, and GitHub  
-Jan 11 (F) - Numerical precision  
+*Note: this is only a preliminary schedule!*  
 
-**Numerical integration (of integrals)**  
-Jan 14 (M) - Riemann sum and trapezoidal rule  
-Jan 16 (W) - Simpson's rule  
-Jan 18 (F) - Error estimation  
+**Topic 1: Course overview and introduction to Python**  
+- Introduction to PHYS 177  
+- Python, Jupyter, and GitHub  
+- Numerical precision  
 
-**Numerical integration (of differential equations)**  
-Jan 21 (M) - **MLK Jr Day, no class**  
-Jan 23 (W) - Euler's method  
-Jan 25 (F) - Runge-Kutta method  
-Jan 28 (M) - Leapfrog and other approaches  
+**Topic 2: Numerical integration of integrals**  
+- Riemann sum and trapezoidal rule  
+- Simpson's rule  
+- Error estimation  
 
-**Statistical mechanics**  
-Jan 30 (W) - Probability and random numbers  
-Feb 01 (F) - Computing with probability distributions  
-Feb 04 (M) - Statistical physics and probability I   
-Feb 06 (W) - Statistical physics and probability II  
-Feb 08 (F) - The Ising model  
-Feb 11 (M) - Markov chain Monte Carlo  
-Feb 13 (W) - Monte Carlo simulation for the Ising model  
+**Topic 3: Numerical integration of differential equations**  
+- Euler's method  
+- Runge-Kutta method  
+- Leapfrog and other approaches  
 
-**Optimization**  
-Feb 15 (F) - Convex optimization and steepest descent  
-Feb 18 (M) - **President's Day, no class**  
-Feb 20 (W) - **Midterm presentations**  
-Feb 22 (F) - Line search  
-Feb 25 (M) - Newton's method  
+**Topic 4: Probability and random numbers**  
+- Introduction to probability and random numbers  
+- Computing with probability distributions  
 
-*The schedule below this point is preliminary!*  
+**Topic 5: Stochastic models in physics**
+- Statistical physics and probability   
+- The Ising model  
+- Markov chain Monte Carlo  
+- Monte Carlo simulation for the Ising model  
 
-**Statistical inference**  
-Feb 27 (W) -  Loss functions and linear regression  
-Mar 01 (F) -  Likelihood-based inference  
-Mar 04 (M) -  Bayesian inference  
-Mar 06 (W) -  **No class**
+**Topic 6: Optimization methods**  
+- Convex optimization and steepest descent  
+- Line search  
+- Newton's method  
 
-**Data handling/visualization/machine learning**  
-Mar 08 (F) -  Tidy data
-Mar 11 (M) -  Perceptron I
-Mar 13 (W) -  Perceptron II
+**Topic 7: Statistical inference**  
+- Loss functions and linear regression  
+- Likelihood-based inference  
+- Bayesian inference  
 
-**Final exam**  
-Mar 15 (F) -  
+**Topic 8: Data handling/visualization/machine learning**  
+- Tidy data  
+- Data visualization  
+- The perceptron model  

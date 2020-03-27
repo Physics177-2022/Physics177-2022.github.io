@@ -8,6 +8,10 @@ Information for the course, including homework assignments and information about
 
 ## Lectures
 
+TBD
+
+<!--
+
 **Lecture 0** -- Introduction to Physics 177 [[slides](https://docs.google.com/presentation/d/1e_DADGGG-jxWuMM77yqZBbml25ItlAGIXIVb8c4HO34/edit?usp=sharing)]  
 
 **Lecture 1** -- Python, Jupyter, and GitHub [[slides](https://docs.google.com/presentation/d/1psQXmIiOB9k7jzUYAn0iMPfP5DaFF6zQ7NkxwhJG-YE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-1)]  
@@ -54,9 +58,15 @@ Information for the course, including homework assignments and information about
 
 **Lecture 22** -- Outlook [[slides](https://docs.google.com/presentation/d/1ovu4j2ovxMc7jOk7fnuSjPIgy8WkgmNjokfG3u-rfng/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-22)]  
 
+-->
+
 ## Homework
 
 Follow the **assignment** links below to work on and submit each homework through GitHub Classroom. You can also view the **repository** for each homework directly.
+
+TBD
+
+<!--
 
 **Homework 1** -- Introduction to Python, Jupyter, and Github [[assignment](https://classroom.github.com/a/D8ElyCbC)] [[repository](https://github.com/Physics177-2019/homework-1)]
 
@@ -73,6 +83,8 @@ Follow the **assignment** links below to work on and submit each homework throug
 **Homework 7** -- Optimization for physics [[assignment](https://classroom.github.com/a/pZfdhcM9)] [[repository](https://github.com/Physics177-2019/homework-7)]
 
 **Homework 8** -- Inference for the Ising model [[assignment](https://classroom.github.com/a/0EdnYQ4h)] [[repository](https://github.com/Physics177-2019/homework-8)]
+
+-->
 
 ## Past versions of the course
 
