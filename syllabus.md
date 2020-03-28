@@ -37,10 +37,11 @@ Credit will be assigned as follows:
 
 ### Grading scale
 Grades for each assignment and project will follow a four point scale:
-- 0 -- no submission  
 - 1 -- some work, but the assignment/project is mostly incomplete  
 - 2 -- the assignment/project is mostly complete, but with major errors  
 - 3 -- the assignment/project is complete, with moderate errors  
-- 4 -- the assignment/project is complete with only minor errors  
+- 4 -- the assignment/project is complete, with only minor errors  
+
+More information on midterm and final projects will be available as we progress through the quarter.
 
 I encourage you to freely collaborate with other students on homework and projects.
