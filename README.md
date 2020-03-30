@@ -10,9 +10,9 @@ Information for the course, including homework assignments and information about
 
 TBD
 
-<!--
+**Lecture 0** -- Introduction to Physics 177 [[slides](https://docs.google.com/presentation/d/18OEE9wrG_oPGEvwdpJX-H16t4r9NXP2Ypj_-R9clOjo/edit?usp=sharing)]  
 
-**Lecture 0** -- Introduction to Physics 177 [[slides](https://docs.google.com/presentation/d/1e_DADGGG-jxWuMM77yqZBbml25ItlAGIXIVb8c4HO34/edit?usp=sharing)]  
+<!--
 
 **Lecture 1** -- Python, Jupyter, and GitHub [[slides](https://docs.google.com/presentation/d/1psQXmIiOB9k7jzUYAn0iMPfP5DaFF6zQ7NkxwhJG-YE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-1)]  
 
