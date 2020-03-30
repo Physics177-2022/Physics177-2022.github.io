@@ -10,7 +10,7 @@ Information for the course, including homework assignments and information about
 
 TBD
 
-**Lecture 0** -- Introduction to Physics 177 [[slides](https://docs.google.com/presentation/d/18OEE9wrG_oPGEvwdpJX-H16t4r9NXP2Ypj_-R9clOjo/edit?usp=sharing)]  
+**Lecture 0** -- Introduction to Physics 177 [[slides](https://docs.google.com/presentation/d/18OEE9wrG_oPGEvwdpJX-H16t4r9NXP2Ypj_-R9clOjo/edit?usp=sharing)][[video](https://www.dropbox.com/s/4ik57rkgino0oce/lecture_0.mp4?dl=0)]  
 
 <!--
 
