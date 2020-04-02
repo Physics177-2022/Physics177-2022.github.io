@@ -8,9 +8,9 @@ Information for the course, including homework assignments and information about
 
 ## Lectures
 
-**Lecture 0** -- Introduction to Physics 177 [[slides](https://docs.google.com/presentation/d/18OEE9wrG_oPGEvwdpJX-H16t4r9NXP2Ypj_-R9clOjo/edit?usp=sharing)][[video](https://www.dropbox.com/s/4ik57rkgino0oce/lecture_0.mp4?dl=0)]  
+**Lecture 0** -- Introduction to Physics 177 [[slides](https://docs.google.com/presentation/d/18OEE9wrG_oPGEvwdpJX-H16t4r9NXP2Ypj_-R9clOjo/edit?usp=sharing)] [[video](https://www.dropbox.com/s/4ik57rkgino0oce/lecture_0.mp4?dl=0)]  
 
-**Lecture 1** -- Python, Jupyter, and GitHub [[slides](https://docs.google.com/presentation/d/1uwKIwAtWNpgKMqp82YVPvYHwYaKg541jJriF5n5JW34/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-1)]  
+**Lecture 1** -- Python, Jupyter, and GitHub [[slides](https://docs.google.com/presentation/d/1uwKIwAtWNpgKMqp82YVPvYHwYaKg541jJriF5n5JW34/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-1)] [[video](https://www.dropbox.com/s/ieg7d0jx3xhbg9m/lecture_1.mp4?dl=0)]  
 
 <!--
 
