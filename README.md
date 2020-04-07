@@ -12,9 +12,9 @@ Information for the course, including homework assignments and information about
 
 **Lecture 1** -- Python, Jupyter, and GitHub [[slides](https://docs.google.com/presentation/d/1uwKIwAtWNpgKMqp82YVPvYHwYaKg541jJriF5n5JW34/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-1)] [[video 1](https://www.dropbox.com/s/ieg7d0jx3xhbg9m/lecture_1.mp4?dl=0)] [[video 2](https://www.dropbox.com/s/kfnk1ag3mvtvrc1/lecture_1_extended.mp4?dl=0)]  
 
-<!--
+**Lecture 2** -- Numerical precision [[slides](https://docs.google.com/presentation/d/1zM-F4qcHrYZzNC34wqALjIr9JuTbAhrP3a4bLs02PuE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-2)] [[video](https://www.dropbox.com/s/639k2zhtcban1es/lecture_2.mp4?dl=0)]  
 
-**Lecture 2** -- Numerical precision [[slides](https://docs.google.com/presentation/d/17xPbJKHU4j6qgZ9KTQKYJ4ByJbX2EV2-_86DhZgFdrc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-2)]
+<!--
 
 **Lecture 3** -- Numerical integration: Riemann sum and trapezoidal rule [[slides](https://docs.google.com/presentation/d/1fUS5RxMuVOdT2PVUIuFO_gVxiDsbxhbpKDPMwaw-Cqw/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-3)]
 

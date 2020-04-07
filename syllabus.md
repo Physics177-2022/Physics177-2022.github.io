@@ -5,7 +5,7 @@
 # Logistics
 
 ### Lecture
-TBD!
+By video, 2-3 times per week. Video links will be on the course homepage.
 
 ### Instructor
 Prof. John P. Barton  
@@ -13,7 +13,7 @@ MRB 3116
 john.barton@ucr.edu  
 
 ### Office hours
-TBD!
+Weekly office via Zoom. See the Slack group for weekly details on the meeting time.
 
 
 # Course summary
