@@ -16,9 +16,9 @@ Information for the course, including homework assignments and information about
 
 **Lecture 3** -- Numerical integration: Riemann sum and trapezoidal rule [[slides](https://docs.google.com/presentation/d/1LC7I4bua6qyRSEvKwDmXMh9Dl1NIvOVjf1TAS_6L8mY/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-3)] [[video](https://www.dropbox.com/s/n8eywlwh689yyue/lecture_3.mp4?dl=0)]  
 
-<!--
+**Lecture 4** -- Numerical integration: Simpson's rule [[slides](https://docs.google.com/presentation/d/1PlDw9VQzpxlnPPxvoBrlPKCTcZ-I4CFSIwLJyRzYOJU/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-4)] [[video](https://www.dropbox.com/s/csjr4xtgtux2xo1/lecture_4.mp4?dl=0)]  
 
-**Lecture 4** -- Numerical integration: Simpson's rule [[slides](https://docs.google.com/presentation/d/1cfUQnty9q9oY1DA5GVrXsAkr30USlXsU1qwGcx1t8mk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-4)]
+<!--
 
 **Lecture 5** -- Numerical integration: Error analysis [[slides](https://docs.google.com/presentation/d/1YixF6nGuq2cbPo7uG0gZWn3zlN8q5OGsQw-chBqYEDc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-5)]
 
