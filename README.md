@@ -20,9 +20,9 @@ Information for the course, including homework assignments and information about
 
 **Lecture 5** -- Numerical integration: Error analysis [[slides](https://docs.google.com/presentation/d/13XYPYKhVoVPOLHLJ_m1uU_4Mbw6gCpJssPmUGjE9jkk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-5)] [[video](https://www.dropbox.com/s/xqytnfb3q1rzxa0/lecture_5.mp4?dl=0)]  
 
-<!--
+**Lecture 6** -- Differential equations: Euler's method [[slides](https://docs.google.com/presentation/d/1tO2zYWGIQ4eyN-z87D6DsbL91OEXzTw5GHKwP8YAoQw/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-6)] [[video](https://www.dropbox.com/s/ukyvxzgx0a49rtj/lecture_6.mp4?dl=0)]  
 
-**Lecture 6** -- Differential equations: Euler's method [[slides](https://docs.google.com/presentation/d/1tTsnTdeQs3ByZPXvDHLNLsC2694iRE5ffBx-z2lS8VM/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-6)]
+<!--
 
 **Lecture 7** -- Differential equations: Runge-Kutta method [[slides](https://docs.google.com/presentation/d/1s2Z6_ofXM8JYBA70LENgYgMR_vFijCaAX-JWK53WMsk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-7)]
 
