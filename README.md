@@ -18,9 +18,9 @@ Information for the course, including homework assignments and information about
 
 **Lecture 4** -- Numerical integration: Simpson's rule [[slides](https://docs.google.com/presentation/d/1PlDw9VQzpxlnPPxvoBrlPKCTcZ-I4CFSIwLJyRzYOJU/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-4)] [[video](https://www.dropbox.com/s/csjr4xtgtux2xo1/lecture_4.mp4?dl=0)]  
 
-<!--
+**Lecture 5** -- Numerical integration: Error analysis [[slides](https://docs.google.com/presentation/d/13XYPYKhVoVPOLHLJ_m1uU_4Mbw6gCpJssPmUGjE9jkk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-5)] [[video](https://www.dropbox.com/s/xqytnfb3q1rzxa0/lecture_5.mp4?dl=0)]  
 
-**Lecture 5** -- Numerical integration: Error analysis [[slides](https://docs.google.com/presentation/d/1YixF6nGuq2cbPo7uG0gZWn3zlN8q5OGsQw-chBqYEDc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-5)]
+<!--
 
 **Lecture 6** -- Differential equations: Euler's method [[slides](https://docs.google.com/presentation/d/1tTsnTdeQs3ByZPXvDHLNLsC2694iRE5ffBx-z2lS8VM/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-6)]
 
