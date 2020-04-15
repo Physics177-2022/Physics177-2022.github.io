@@ -66,9 +66,9 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 2** -- Numerical integration [[assignment](https://classroom.github.com/a/3wk8rMSt)] [[repository](https://github.com/Physics177-2020/homework-2)]  
 
-<!--
+**Homework 3** -- Numerical integration of ordinary differential equations [[assignment](https://classroom.github.com/a/OtTyyAb6)] [[repository](https://github.com/Physics177-2020/homework-3)]  
 
-**Homework 3** -- Numerical integration of ordinary differential equations [[assignment](https://classroom.github.com/a/n3jivfDu)] [[repository](https://github.com/Physics177-2020/homework-3)]  
+<!--
 
 **Homework 4** -- Different approaches to numerical integration of differential equations [[assignment](https://classroom.github.com/a/Ytnjx_Iw)] [[repository](https://github.com/Physics177-2020/homework-4)]
 
