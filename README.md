@@ -22,9 +22,9 @@ Information for the course, including homework assignments and information about
 
 **Lecture 6** -- Differential equations: Euler's method [[slides](https://docs.google.com/presentation/d/1tO2zYWGIQ4eyN-z87D6DsbL91OEXzTw5GHKwP8YAoQw/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-6)] [[video](https://www.dropbox.com/s/ukyvxzgx0a49rtj/lecture_6.mp4?dl=0)]  
 
-<!--
+**Lecture 7** -- Differential equations: the Runge-Kutta and leapfrog methods [[slides](https://docs.google.com/presentation/d/1xVs188-mo_Ev0in_elibRFXXfeHy6r7bUqEg0C7wJ2I/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-7)] [[video 1](https://www.dropbox.com/s/3epjhzj1wc6whme/lecture_7.mp4?dl=0)] [[video 2]](https://www.dropbox.com/s/d4jawont0rfng1m/lecture_7_extended.mp4?dl=0)  
 
-**Lecture 7** -- Differential equations: Runge-Kutta method [[slides](https://docs.google.com/presentation/d/1s2Z6_ofXM8JYBA70LENgYgMR_vFijCaAX-JWK53WMsk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-7)]
+<!--
 
 **Lecture 8** -- Random number generation [[slides](https://docs.google.com/presentation/d/1L5cLKDf5ztvLI0dHPKlH0_qTmsxhiqpYyMhq3bQ-pcc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-8)]
 
