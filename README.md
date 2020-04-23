@@ -68,9 +68,9 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 3** -- Numerical integration of ordinary differential equations [[assignment](https://classroom.github.com/a/OtTyyAb6)] [[repository](https://github.com/Physics177-2020/homework-3)]  
 
-<!--
+**Homework 4** -- Different approaches to numerical integration of differential equations [[assignment](https://classroom.github.com/a/x5N3nIbj)] [[repository](https://github.com/Physics177-2020/homework-4)]
 
-**Homework 4** -- Different approaches to numerical integration of differential equations [[assignment](https://classroom.github.com/a/Ytnjx_Iw)] [[repository](https://github.com/Physics177-2020/homework-4)]
+<!--
 
 **Homework 5** -- Statistical physics of a rubber band [[assignment](https://classroom.github.com/a/__kmerxh)] [[repository](https://github.com/Physics177-2020/homework-5)]
 
