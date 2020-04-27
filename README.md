@@ -26,9 +26,9 @@ Information for the course, including homework assignments and information about
 
 **Lecture 8** -- Random number generation [[slides](https://docs.google.com/presentation/d/1R9YHnxeLzwnKEuFQ5rCOyIcLRfYDGm97p6_EoEC_Ieg/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-8)] [[video](https://www.dropbox.com/s/7n382at4lnz2w7t/lecture_8.mp4?dl=0)]  
 
-<!--
+**Lecture 9** -- Calculations with probability distributions [[slides](https://docs.google.com/presentation/d/1Eok4MSTOHDBv3husQC8Q79YcCtVvv4E1wg-oVtdbUrs/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-9)] [[video](https://www.dropbox.com/s/r0omxor3xim2oz3/lecture_9.mp4?dl=0)]  
 
-**Lecture 9** -- Calculations with probability distributions [[repository](https://github.com/Physics177-2020/lecture-9)]
+<!--
 
 **Lecture 10** -- Probability and statistical physics I [[repository](https://github.com/Physics177-2020/lecture-10)]
 
