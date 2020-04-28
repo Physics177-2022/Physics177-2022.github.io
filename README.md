@@ -28,9 +28,9 @@ Information for the course, including homework assignments and information about
 
 **Lecture 9** -- Calculations with probability distributions [[slides](https://docs.google.com/presentation/d/1Eok4MSTOHDBv3husQC8Q79YcCtVvv4E1wg-oVtdbUrs/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-9)] [[video](https://www.dropbox.com/s/r0omxor3xim2oz3/lecture_9.mp4?dl=0)]  
 
-<!--
+**Lecture 10** -- Probability and statistical physics I [[slides](https://docs.google.com/presentation/d/1BZj8mhxh3AnkA6dYaDxmyur7qPnHTRFzyj_z-lZjmPk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-10)] [[video](https://www.dropbox.com/s/rjrm08kovy6k3p3/lecture_10.mp4?dl=0)]  
 
-**Lecture 10** -- Probability and statistical physics I [[repository](https://github.com/Physics177-2020/lecture-10)]
+<!--
 
 **Lecture 11** -- Probability and statistical physics II [[slides](https://docs.google.com/presentation/d/1qIp_a0hI5VtgncQfGJL5CQV8gqzBVsi_QH-cCpppuYU/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-11)]
 
@@ -70,9 +70,9 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 4** -- Different approaches to numerical integration of differential equations [[assignment](https://classroom.github.com/a/x5N3nIbj)] [[repository](https://github.com/Physics177-2020/homework-4)]
 
-<!--
+**Homework 5** -- Statistical physics of a rubber band [[assignment](https://classroom.github.com/a/1VbM9TW6)] [[repository](https://github.com/Physics177-2020/homework-5)]
 
-**Homework 5** -- Statistical physics of a rubber band [[assignment](https://classroom.github.com/a/__kmerxh)] [[repository](https://github.com/Physics177-2020/homework-5)]
+<!--
 
 **Homework 6** -- Simulating the Ising model [[assignment](https://classroom.github.com/a/E9IuqRQC)] [[repository](https://github.com/Physics177-2020/homework-6)]
 
