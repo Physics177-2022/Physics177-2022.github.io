@@ -2,6 +2,7 @@
 
 [Syllabus](./syllabus.html)  
 [Schedule](./schedule.html)  
+[Midterm](./midterm.html)
 
 Information for the course, including homework assignments and information about exams, will be posted here as we progress through the quarter.
 
