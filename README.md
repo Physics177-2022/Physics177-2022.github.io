@@ -2,7 +2,7 @@
 
 [Syllabus](./syllabus.html)  
 [Schedule](./schedule.html)  
-[Midterm](./midterm.html)
+[Midterm](./midterm.html) [[assignment](https://classroom.github.com/a/ZX6p7Gbw)]
 
 Information for the course, including homework assignments and information about exams, will be posted here as we progress through the quarter.
 
@@ -31,9 +31,9 @@ Information for the course, including homework assignments and information about
 
 **Lecture 10** -- Probability and statistical physics I [[slides](https://docs.google.com/presentation/d/1BZj8mhxh3AnkA6dYaDxmyur7qPnHTRFzyj_z-lZjmPk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-10)] [[video](https://www.dropbox.com/s/rjrm08kovy6k3p3/lecture_10.mp4?dl=0)]  
 
-<!--
+**Lecture 11** -- Probability and statistical physics II [[slides](https://docs.google.com/presentation/d/1norjKSnjlzRYD55CMWXxnL1bzqf0XyiOOW_tLeAkenI/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-11)] [[video](https://www.dropbox.com/s/1nxze7v25r8841a/lecture_11.mp4?dl=0)]  
 
-**Lecture 11** -- Probability and statistical physics II [[slides](https://docs.google.com/presentation/d/1qIp_a0hI5VtgncQfGJL5CQV8gqzBVsi_QH-cCpppuYU/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-11)]
+<!--
 
 **Lecture 12** -- The Ising model [[slides](https://docs.google.com/presentation/d/15gx1E_6sNsMnVbiffYW0zf0nPAFbnX1ZulQCdoK6vvo/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-12)]  
 
