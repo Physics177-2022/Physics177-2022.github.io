@@ -33,29 +33,29 @@ Information for the course, including homework assignments and information about
 
 **Lecture 11** -- Probability and statistical physics II [[slides](https://docs.google.com/presentation/d/1norjKSnjlzRYD55CMWXxnL1bzqf0XyiOOW_tLeAkenI/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-11)] [[video](https://www.dropbox.com/s/1nxze7v25r8841a/lecture_11.mp4?dl=0)]  
 
+**Lecture 12** -- The Ising model [[slides](https://docs.google.com/presentation/d/1Bq0s8SzeyrNy10290mp6neGjcZe8keoOSXScgbpO-YQ/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-12)] [[video](https://www.dropbox.com/s/i2dj5b8qyi7ubjp/lecture_12.mp4?dl=0)]  
+
 <!--
 
-**Lecture 12** -- The Ising model [[slides](https://docs.google.com/presentation/d/15gx1E_6sNsMnVbiffYW0zf0nPAFbnX1ZulQCdoK6vvo/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-12)]  
+**Lecture 13** -- Markov chain Monte Carlo [[slides](https://docs.google.com/presentation/d/10qzW4JEiY8aPTJXIo6GpMRfDz6T7SX1blD1UjKtpXso/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-13)] [[video]()]  
 
-**Lecture 13** -- Markov chain Monte Carlo [[slides](https://docs.google.com/presentation/d/1zfOAMskmOplZZk-0u-XaFWFFncph_0j0XiNfa4DvkOc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-13)]
+**Lecture 14** -- Practical MCMC [[slides](https://docs.google.com/presentation/d/1Y5pGhHMqdWL5YJE-4QVpfZknISZZWAwlLngbI8EVqxM/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-14)] [[video]()]  
 
-**Lecture 14** -- Practical MCMC [[slides](https://docs.google.com/presentation/d/1Y5pGhHMqdWL5YJE-4QVpfZknISZZWAwlLngbI8EVqxM/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-14)]
+**Lecture 15** -- Convex optimization [[slides](https://docs.google.com/presentation/d/1E8CNLOvAuhZsPtghiXP5mYtddQNh98ixaSm5Zi0upRc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-15)] [[video]()]  
 
-**Lecture 15** -- Convex optimization [[slides](https://docs.google.com/presentation/d/1E8CNLOvAuhZsPtghiXP5mYtddQNh98ixaSm5Zi0upRc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-15)]
+**Lecture 16** -- Line search [[slides](https://docs.google.com/presentation/d/1FO6AhDNm7bk2y9AkuYy79KAKVb9AG7IuB1peIM2PdjM/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-16)] [[video]()]  
 
-**Lecture 16** -- Line search [[slides](https://docs.google.com/presentation/d/1FO6AhDNm7bk2y9AkuYy79KAKVb9AG7IuB1peIM2PdjM/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-16)]
+**Lecture 17** -- Newton's method [[slides](https://docs.google.com/presentation/d/1WWWUFTWmIRmlAbJGmGIxs1_R7OjwNpbbe1bon_99ARY/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-17)] [[video]()]  
 
-**Lecture 17** -- Newton's method [[slides](https://docs.google.com/presentation/d/1WWWUFTWmIRmlAbJGmGIxs1_R7OjwNpbbe1bon_99ARY/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-17)]
+**Lecture 18** -- Loss functions and regression [[slides](https://docs.google.com/presentation/d/1YiTWNANFnDwoyFyQW1ORL3mHGWVAzL0PZjCkBx9gL-A/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-18)] [[video]()]  
 
-**Lecture 18** -- Loss functions and regression [[slides](https://docs.google.com/presentation/d/1YiTWNANFnDwoyFyQW1ORL3mHGWVAzL0PZjCkBx9gL-A/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-18)]
+**Lecture 19** -- Maximum likelihood [[slides](https://docs.google.com/presentation/d/1L5mKqJYrfGh_x-b2r8sla1YVHr0heAANSMfnPU825Wc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-19)] [[video]()]  
 
-**Lecture 19** -- Maximum likelihood [[slides](https://docs.google.com/presentation/d/1L5mKqJYrfGh_x-b2r8sla1YVHr0heAANSMfnPU825Wc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-19)]  
+**Lecture 20** -- Bayesian inference [[slides](https://docs.google.com/presentation/d/1ui9bNfIB_I16CPbcuemsw_dj6THLsVrvHq0STRB1W7I/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-20)] [[video]()]  
 
-**Lecture 20** -- Bayesian inference [[slides](https://docs.google.com/presentation/d/1ui9bNfIB_I16CPbcuemsw_dj6THLsVrvHq0STRB1W7I/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-20)]  
+**Lecture 21** -- Data handling [[slides](https://docs.google.com/presentation/d/1tl-N5x1p5kb3D4bl0fQtjVg7xHFa4Kpg42tIPvB_wSE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-21)] [[video]()]  
 
-**Lecture 21** -- Data handling [[slides](https://docs.google.com/presentation/d/1tl-N5x1p5kb3D4bl0fQtjVg7xHFa4Kpg42tIPvB_wSE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-21)]  
-
-**Lecture 22** -- Outlook [[slides](https://docs.google.com/presentation/d/1ovu4j2ovxMc7jOk7fnuSjPIgy8WkgmNjokfG3u-rfng/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-22)]  
+**Lecture 22** -- Outlook [[slides](https://docs.google.com/presentation/d/1ovu4j2ovxMc7jOk7fnuSjPIgy8WkgmNjokfG3u-rfng/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-22)] [[video]()]  
 
 -->
 
