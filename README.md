@@ -73,9 +73,9 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 5** -- Statistical physics of a rubber band [[assignment](https://classroom.github.com/a/1VbM9TW6)] [[repository](https://github.com/Physics177-2020/homework-5)]
 
-<!--
+**Homework 6** -- Simulating the Ising model [[assignment](https://classroom.github.com/a/B5SdB5F4)] [[repository](https://github.com/Physics177-2020/homework-6)]  
 
-**Homework 6** -- Simulating the Ising model [[assignment](https://classroom.github.com/a/E9IuqRQC)] [[repository](https://github.com/Physics177-2020/homework-6)]
+<!--
 
 **Homework 7** -- Optimization for physics [[assignment](https://classroom.github.com/a/pZfdhcM9)] [[repository](https://github.com/Physics177-2020/homework-7)]
 
