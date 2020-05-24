@@ -45,13 +45,13 @@ Information for the course, including homework assignments and information about
 
 **Lecture 17** -- Newton's method [[slides](https://docs.google.com/presentation/d/13dK-lU-Q6_LtLlmFO8NWjmnP23LOeLAOLsH1FhUV6ac/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-17)] [[video](https://www.dropbox.com/s/7bgi7gtz7rvstx2/lecture_17.mp4?dl=0)]  
 
+**Lecture 18** -- Loss functions and regression [[slides](https://docs.google.com/presentation/d/16QlQtkRKXLzQ2GuBn9oJ8Urm1MFTT-jkMv2FDbKMueg/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-18)] [[video](https://www.dropbox.com/s/fb0c1pp3z04wbdw/lecture_18.mp4?dl=0)]  
+
+**Lecture 19** -- Maximum likelihood [[slides](https://docs.google.com/presentation/d/1PzxL0LCTNXXFCMnnfX2R0o9VaR8WUtlrk9n2c-fCQGA/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-19)] [[video](https://www.dropbox.com/s/r20928ohapi0gfw/lecture_19.mp4?dl=0)]  
+
 <!--
 
-**Lecture 18** -- Loss functions and regression [[slides](https://docs.google.com/presentation/d/1YiTWNANFnDwoyFyQW1ORL3mHGWVAzL0PZjCkBx9gL-A/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-18)] [[video]()]  
-
-**Lecture 19** -- Maximum likelihood [[slides](https://docs.google.com/presentation/d/1L5mKqJYrfGh_x-b2r8sla1YVHr0heAANSMfnPU825Wc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-19)] [[video]()]  
-
-**Lecture 20** -- Bayesian inference [[slides](https://docs.google.com/presentation/d/1ui9bNfIB_I16CPbcuemsw_dj6THLsVrvHq0STRB1W7I/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-20)] [[video]()]  
+**Lecture 20** -- Bayesian inference [[slides](https://docs.google.com/presentation/d/17GuHPWPfNWidP62eAhN2zjvCrqjA774suTqcUI2sLoE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-20)] [[video]()]  
 
 **Lecture 21** -- Data handling [[slides](https://docs.google.com/presentation/d/1tl-N5x1p5kb3D4bl0fQtjVg7xHFa4Kpg42tIPvB_wSE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-21)] [[video]()]  
 
