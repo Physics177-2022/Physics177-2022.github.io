@@ -2,7 +2,8 @@
 
 [Syllabus](./syllabus.html)  
 [Schedule](./schedule.html)  
-[Midterm](./midterm.html) [[assignment](https://classroom.github.com/a/ZX6p7Gbw)]
+[Midterm](./midterm.html) [[assignment](https://classroom.github.com/a/ZX6p7Gbw)]  
+[Final](./final.html) [[assignment](https://classroom.github.com/a/Qrlr8QN6)]
 
 Information for the course, including homework assignments and information about exams, will be posted here as we progress through the quarter.
 
