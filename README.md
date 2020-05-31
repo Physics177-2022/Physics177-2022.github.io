@@ -49,13 +49,14 @@ Information for the course, including homework assignments and information about
 
 **Lecture 19** -- Maximum likelihood [[slides](https://docs.google.com/presentation/d/1PzxL0LCTNXXFCMnnfX2R0o9VaR8WUtlrk9n2c-fCQGA/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-19)] [[video](https://www.dropbox.com/s/r20928ohapi0gfw/lecture_19.mp4?dl=0)]  
 
+**Lecture 20** -- Bayesian inference [[slides](https://docs.google.com/presentation/d/17GuHPWPfNWidP62eAhN2zjvCrqjA774suTqcUI2sLoE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-20)] [[video](https://www.dropbox.com/s/wxkdfgkh2pgt53d/lecture_20.mp4?dl=0)]  
+
+**Lecture 21** -- Data handling [[slides](https://docs.google.com/presentation/d/1BTXHlcyWAmslOX0YmIQF7qpdprUutIO0D7n8tu-CBJw/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-21)] [[video](https://www.dropbox.com/s/re70sfnohpv2dct/lecture_21.mp4?dl=0)]  
+
+**Lecture 22** -- Outlook [[slides](https://docs.google.com/presentation/d/1AcBtp9fh8f-RcV20Yf1uKTpeMITAYFGcMx-cKfggjNo/edit?usp=sharing)] [[video](https://www.dropbox.com/s/xeogy7ph99j6961/lecture_22.mp4?dl=0)]  
+
+
 <!--
-
-**Lecture 20** -- Bayesian inference [[slides](https://docs.google.com/presentation/d/17GuHPWPfNWidP62eAhN2zjvCrqjA774suTqcUI2sLoE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-20)] [[video]()]  
-
-**Lecture 21** -- Data handling [[slides](https://docs.google.com/presentation/d/1tl-N5x1p5kb3D4bl0fQtjVg7xHFa4Kpg42tIPvB_wSE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-21)] [[video]()]  
-
-**Lecture 22** -- Outlook [[slides](https://docs.google.com/presentation/d/1ovu4j2ovxMc7jOk7fnuSjPIgy8WkgmNjokfG3u-rfng/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-22)] [[video]()]  
 
 -->
 
