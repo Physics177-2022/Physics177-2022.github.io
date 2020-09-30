@@ -1,5 +1,5 @@
 # Physics 177: Computational Physics
-### Spring 2020
+### Fall 2020
 
 
 # Final project
@@ -18,7 +18,7 @@ Feel free to elaborate on and expand your midterm project for the final.
 
 ### Due date
 
-Friday, June 12
+Friday, December 18
 
 ### Other notes
 

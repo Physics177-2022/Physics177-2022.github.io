@@ -1,5 +1,5 @@
 # Physics 177: Computational Physics
-### Spring 2020
+### Fall 2020
 
 
 # Midterm mini-project

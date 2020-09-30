@@ -1,7 +1,6 @@
 # Physics 177: Computational Physics
-### Spring 2020
+### Fall 2020
 
-*Note: this is only a preliminary schedule!*  
 
 **Topic 1: Course overview and introduction to Python**  
 - Introduction to PHYS 177  
