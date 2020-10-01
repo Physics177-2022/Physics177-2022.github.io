@@ -13,7 +13,7 @@ MRB 3116
 john.barton@ucr.edu  
 
 ### Office hours
-Weekly office via Zoom. See the Slack group for weekly details on the meeting time.
+Weekly office hours via Zoom. See the Slack group for weekly details on the meeting time.
 
 
 # Course summary
@@ -34,6 +34,7 @@ Credit will be assigned as follows:
 - participation in labs and class discussion (20%)  
 - midterm project (20%)  
 - final project (20%)  
+
 
 ### Grading scale
 Grades for each assignment and project will follow a four point scale:
