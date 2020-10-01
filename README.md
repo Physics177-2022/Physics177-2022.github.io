@@ -62,7 +62,7 @@ Information for the course, including homework assignments and information about
 
 ## Homework
 
-Follow the **assignment** links below to work on and submit each homework through GitHub Classroom. You can also view the **repository** for each homework directly.
+Follow the **assignment** links below to work on and submit each homework through GitHub Classroom. <!-- You can also view the **repository** for each homework directly. -->
 
 <!--
 **Homework 1** -- Introduction to Python, Jupyter, and Github [[assignment]()]  
