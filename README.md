@@ -64,22 +64,22 @@ Information for the course, including homework assignments and information about
 
 Follow the **assignment** links below to work on and submit each homework through GitHub Classroom. You can also view the **repository** for each homework directly.
 
-**Homework 1** -- Introduction to Python, Jupyter, and Github [[assignment]()] [[repository](https://github.com/Physics177-2020/homework-1)]  
-
 <!--
-**Homework 2** -- Numerical integration [[assignment]()] [[repository](https://github.com/Physics177-2020/homework-2)]  
+**Homework 1** -- Introduction to Python, Jupyter, and Github [[assignment]()]  
 
-**Homework 3** -- Numerical integration of ordinary differential equations [[assignment]()] [[repository](https://github.com/Physics177-2020/homework-3)]  
+**Homework 2** -- Numerical integration [[assignment]()]  
 
-**Homework 4** -- Different approaches to numerical integration of differential equations [[assignment]()] [[repository](https://github.com/Physics177-2020/homework-4)]  
+**Homework 3** -- Numerical integration of ordinary differential equations [[assignment]()]  
 
-**Homework 5** -- Statistical physics of a rubber band [[assignment]()] [[repository](https://github.com/Physics177-2020/homework-5)]  
+**Homework 4** -- Different approaches to numerical integration of differential equations [[assignment]()]  
 
-**Homework 6** -- Simulating the Ising model [[assignment]()] [[repository](https://github.com/Physics177-2020/homework-6)]  
+**Homework 5** -- Statistical physics of a rubber band [[assignment]()]  
 
-**Homework 7** -- Optimization for physics [[assignment]()] [[repository](https://github.com/Physics177-2020/homework-7)]
+**Homework 6** -- Simulating the Ising model [[assignment]()]  
 
-**Homework 8** -- Inference for the Ising model [[assignment]()] [[repository](https://github.com/Physics177-2020/homework-8)]
+**Homework 7** -- Optimization for physics [[assignment]()]  
+
+**Homework 8** -- Inference for the Ising model [[assignment]()]  
 -->
 
 ## Past versions of the course
