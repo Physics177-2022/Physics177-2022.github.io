@@ -14,11 +14,11 @@ Information for the course, including homework assignments and information about
 
 **Lecture 0** -- Introduction to Physics 177 [[slides](https://docs.google.com/presentation/d/18OEE9wrG_oPGEvwdpJX-H16t4r9NXP2Ypj_-R9clOjo/edit?usp=sharing)] [[video](https://www.dropbox.com/s/xhthw0h80btabfb/lecture_0.mp4?dl=0)]  
 
-<!--
 **Lecture 1** -- Python, Jupyter, and GitHub [[slides](https://docs.google.com/presentation/d/1uwKIwAtWNpgKMqp82YVPvYHwYaKg541jJriF5n5JW34/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-1)] [[video 1](https://www.dropbox.com/s/ieg7d0jx3xhbg9m/lecture_1.mp4?dl=0)] [[video 2](https://www.dropbox.com/s/kfnk1ag3mvtvrc1/lecture_1_extended.mp4?dl=0)]  
 
 **Lecture 2** -- Numerical precision [[slides](https://docs.google.com/presentation/d/1zM-F4qcHrYZzNC34wqALjIr9JuTbAhrP3a4bLs02PuE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-2)] [[video](https://www.dropbox.com/s/639k2zhtcban1es/lecture_2.mp4?dl=0)]  
 
+<!--
 **Lecture 3** -- Numerical integration: Riemann sum and trapezoidal rule [[slides](https://docs.google.com/presentation/d/1LC7I4bua6qyRSEvKwDmXMh9Dl1NIvOVjf1TAS_6L8mY/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-3)] [[video](https://www.dropbox.com/s/n8eywlwh689yyue/lecture_3.mp4?dl=0)]  
 
 **Lecture 4** -- Numerical integration: Simpson's rule [[slides](https://docs.google.com/presentation/d/1PlDw9VQzpxlnPPxvoBrlPKCTcZ-I4CFSIwLJyRzYOJU/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-4)] [[video](https://www.dropbox.com/s/csjr4xtgtux2xo1/lecture_4.mp4?dl=0)]  
@@ -64,9 +64,9 @@ Information for the course, including homework assignments and information about
 
 Follow the **assignment** links below to work on and submit each homework through GitHub Classroom. <!-- You can also view the **repository** for each homework directly. -->
 
-<!--
-**Homework 1** -- Introduction to Python, Jupyter, and Github [[assignment]()]  
+**Homework 1** -- Introduction to Python, Jupyter, and Github [[assignment](https://classroom.github.com/a/d_ul-qMO)]  
 
+<!--
 **Homework 2** -- Numerical integration [[assignment]()]  
 
 **Homework 3** -- Numerical integration of ordinary differential equations [[assignment]()]  
