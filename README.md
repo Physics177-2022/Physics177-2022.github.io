@@ -22,11 +22,11 @@ Information for the course, including homework assignments and information about
 
 **Lecture 4** -- Numerical integration: Simpson's rule [[slides](https://docs.google.com/presentation/d/1PlDw9VQzpxlnPPxvoBrlPKCTcZ-I4CFSIwLJyRzYOJU/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-4)] [[video](https://www.dropbox.com/s/csjr4xtgtux2xo1/lecture_4.mp4?dl=0)]  
 
-<!--
-
 **Lecture 5** -- Numerical integration: Error analysis [[slides](https://docs.google.com/presentation/d/13XYPYKhVoVPOLHLJ_m1uU_4Mbw6gCpJssPmUGjE9jkk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-5)] [[video](https://www.dropbox.com/s/xqytnfb3q1rzxa0/lecture_5.mp4?dl=0)]  
 
 **Lecture 6** -- Differential equations: Euler's method [[slides](https://docs.google.com/presentation/d/1tO2zYWGIQ4eyN-z87D6DsbL91OEXzTw5GHKwP8YAoQw/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-6)] [[video](https://www.dropbox.com/s/ukyvxzgx0a49rtj/lecture_6.mp4?dl=0)]  
+
+<!--
 
 **Lecture 7** -- Differential equations: the Runge-Kutta and leapfrog methods [[slides](https://docs.google.com/presentation/d/1xVs188-mo_Ev0in_elibRFXXfeHy6r7bUqEg0C7wJ2I/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-7)] [[video 1](https://www.dropbox.com/s/3epjhzj1wc6whme/lecture_7.mp4?dl=0)] [[video 2](https://www.dropbox.com/s/d4jawont0rfng1m/lecture_7_extended.mp4?dl=0)]  
 
@@ -69,8 +69,9 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 2** -- Numerical integration [[assignment](https://classroom.github.com/a/06fLzJZb)]  
 
+**Homework 3** -- Numerical integration of ordinary differential equations [[assignment](https://classroom.github.com/a/cvNHZ6x9)]  
+
 <!--
-**Homework 3** -- Numerical integration of ordinary differential equations [[assignment]()]  
 
 **Homework 4** -- Different approaches to numerical integration of differential equations [[assignment]()]  
 
