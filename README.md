@@ -26,11 +26,11 @@ Information for the course, including homework assignments and information about
 
 **Lecture 6** -- Differential equations: Euler's method [[slides](https://docs.google.com/presentation/d/1tO2zYWGIQ4eyN-z87D6DsbL91OEXzTw5GHKwP8YAoQw/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-6)] [[video](https://www.dropbox.com/s/ukyvxzgx0a49rtj/lecture_6.mp4?dl=0)]  
 
-<!--
-
 **Lecture 7** -- Differential equations: the Runge-Kutta and leapfrog methods [[slides](https://docs.google.com/presentation/d/1xVs188-mo_Ev0in_elibRFXXfeHy6r7bUqEg0C7wJ2I/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-7)] [[video 1](https://www.dropbox.com/s/3epjhzj1wc6whme/lecture_7.mp4?dl=0)] [[video 2](https://www.dropbox.com/s/d4jawont0rfng1m/lecture_7_extended.mp4?dl=0)]  
 
 **Lecture 8** -- Random number generation [[slides](https://docs.google.com/presentation/d/1R9YHnxeLzwnKEuFQ5rCOyIcLRfYDGm97p6_EoEC_Ieg/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-8)] [[video](https://www.dropbox.com/s/7n382at4lnz2w7t/lecture_8.mp4?dl=0)]  
+
+<!--
 
 **Lecture 9** -- Calculations with probability distributions [[slides](https://docs.google.com/presentation/d/1Eok4MSTOHDBv3husQC8Q79YcCtVvv4E1wg-oVtdbUrs/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-9)] [[video](https://www.dropbox.com/s/r0omxor3xim2oz3/lecture_9.mp4?dl=0)]  
 
@@ -71,10 +71,9 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 3** -- Numerical integration of ordinary differential equations [[assignment](https://classroom.github.com/a/cvNHZ6x9)]  
 
+**Homework 4** -- Different approaches to numerical integration of differential equations [[assignment](https://classroom.github.com/a/TKJoRO-2)]  
+
 <!--
-
-**Homework 4** -- Different approaches to numerical integration of differential equations [[assignment]()]  
-
 **Homework 5** -- Statistical physics of a rubber band [[assignment]()]  
 
 **Homework 6** -- Simulating the Ising model [[assignment]()]  
