@@ -30,11 +30,11 @@ Information for the course, including homework assignments and information about
 
 **Lecture 8** -- Random number generation [[slides](https://docs.google.com/presentation/d/1R9YHnxeLzwnKEuFQ5rCOyIcLRfYDGm97p6_EoEC_Ieg/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-8)] [[video](https://www.dropbox.com/s/7n382at4lnz2w7t/lecture_8.mp4?dl=0)]  
 
-<!--
-
 **Lecture 9** -- Calculations with probability distributions [[slides](https://docs.google.com/presentation/d/1Eok4MSTOHDBv3husQC8Q79YcCtVvv4E1wg-oVtdbUrs/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-9)] [[video](https://www.dropbox.com/s/r0omxor3xim2oz3/lecture_9.mp4?dl=0)]  
 
 **Lecture 10** -- Probability and statistical physics I [[slides](https://docs.google.com/presentation/d/1BZj8mhxh3AnkA6dYaDxmyur7qPnHTRFzyj_z-lZjmPk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-10)] [[video](https://www.dropbox.com/s/rjrm08kovy6k3p3/lecture_10.mp4?dl=0)]  
+
+<!--
 
 **Lecture 11** -- Probability and statistical physics II [[slides](https://docs.google.com/presentation/d/1norjKSnjlzRYD55CMWXxnL1bzqf0XyiOOW_tLeAkenI/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-11)] [[video](https://www.dropbox.com/s/1nxze7v25r8841a/lecture_11.mp4?dl=0)]  
 
@@ -73,8 +73,9 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 4** -- Different approaches to numerical integration of differential equations [[assignment](https://classroom.github.com/a/TKJoRO-2)]  
 
+**Homework 5** -- Statistical physics of a rubber band [[assignment](https://classroom.github.com/a/ADZ1LWBv)]  
+
 <!--
-**Homework 5** -- Statistical physics of a rubber band [[assignment]()]  
 
 **Homework 6** -- Simulating the Ising model [[assignment]()]  
 
