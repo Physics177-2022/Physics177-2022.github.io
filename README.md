@@ -34,13 +34,13 @@ Information for the course, including homework assignments and information about
 
 **Lecture 10** -- Probability and statistical physics I [[slides](https://docs.google.com/presentation/d/1BZj8mhxh3AnkA6dYaDxmyur7qPnHTRFzyj_z-lZjmPk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-10)] [[video](https://www.dropbox.com/s/rjrm08kovy6k3p3/lecture_10.mp4?dl=0)]  
 
-<!--
-
 **Lecture 11** -- Probability and statistical physics II [[slides](https://docs.google.com/presentation/d/1norjKSnjlzRYD55CMWXxnL1bzqf0XyiOOW_tLeAkenI/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-11)] [[video](https://www.dropbox.com/s/1nxze7v25r8841a/lecture_11.mp4?dl=0)]  
 
 **Lecture 12** -- The Ising model [[slides](https://docs.google.com/presentation/d/1Bq0s8SzeyrNy10290mp6neGjcZe8keoOSXScgbpO-YQ/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-12)] [[video](https://www.dropbox.com/s/i2dj5b8qyi7ubjp/lecture_12.mp4?dl=0)]  
 
 **Lecture 13** -- Markov chain Monte Carlo [[slides](https://docs.google.com/presentation/d/10qzW4JEiY8aPTJXIo6GpMRfDz6T7SX1blD1UjKtpXso/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-13)] [[video](https://www.dropbox.com/s/0v6mcccljudvlpz/lecture_13.mp4?dl=0)]  
+
+<!--
 
 **Lecture 14** -- Practical MCMC [[slides](https://docs.google.com/presentation/d/1U3mbTdfIHckrnUmm4WYfdRgOqZKf6_mRCydyMAtK9qU/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-14)] [[video](https://www.dropbox.com/s/04clxki4mfm31t1/lecture_14.mp4?dl=0)]  
 
