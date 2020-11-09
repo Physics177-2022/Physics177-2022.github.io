@@ -2,8 +2,8 @@
 
 [Syllabus](./syllabus.html)  
 [Schedule](./schedule.html)  
+[Midterm](./midterm.html) [[assignment](https://classroom.github.com/a/yBtBIhG4)]  
 <!--
-[Midterm](./midterm.html) [[assignment](https://classroom.github.com/a/ZX6p7Gbw)]  
 [Final](./final.html) [[assignment](https://classroom.github.com/a/Qrlr8QN6)]
 -->
 
