@@ -40,11 +40,11 @@ Information for the course, including homework assignments and information about
 
 **Lecture 13** -- Markov chain Monte Carlo [[slides](https://docs.google.com/presentation/d/10qzW4JEiY8aPTJXIo6GpMRfDz6T7SX1blD1UjKtpXso/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-13)] [[video](https://www.dropbox.com/s/0v6mcccljudvlpz/lecture_13.mp4?dl=0)]  
 
-<!--
-
 **Lecture 14** -- Practical MCMC [[slides](https://docs.google.com/presentation/d/1U3mbTdfIHckrnUmm4WYfdRgOqZKf6_mRCydyMAtK9qU/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-14)] [[video](https://www.dropbox.com/s/04clxki4mfm31t1/lecture_14.mp4?dl=0)]  
 
 **Lecture 15** -- Convex optimization [[slides](https://docs.google.com/presentation/d/17tnKjbaeyEJLcUoXCB4zYcHWof6GYj5QpCkDtKczaa0/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-15)] [[video](https://www.dropbox.com/s/ffbrhbd6u4ljjll/lecture_15.mp4?dl=0)]  
+
+<!--
 
 **Lecture 16** -- Line search [[slides](https://docs.google.com/presentation/d/1NSIa_IVbNNVsSHzDur2FYMK_q1yWKqTudWonzVLHNmo/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-16)] [[video](https://www.dropbox.com/s/kqqr0uw9xlmjfjo/lecture_16.mp4?dl=0)]  
 
@@ -75,9 +75,9 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 5** -- Statistical physics of a rubber band [[assignment](https://classroom.github.com/a/ADZ1LWBv)]  
 
-<!--
+**Homework 6** -- Simulating the Ising model [[assignment](https://classroom.github.com/a/ZelgOGw6)]  
 
-**Homework 6** -- Simulating the Ising model [[assignment]()]  
+<!--
 
 **Homework 7** -- Optimization for physics [[assignment]()]  
 
