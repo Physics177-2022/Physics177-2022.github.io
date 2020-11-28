@@ -48,11 +48,11 @@ Information for the course, including homework assignments and information about
 
 **Lecture 17** -- Newton's method [[slides](https://docs.google.com/presentation/d/13dK-lU-Q6_LtLlmFO8NWjmnP23LOeLAOLsH1FhUV6ac/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-17)] [[video](https://www.dropbox.com/s/7bgi7gtz7rvstx2/lecture_17.mp4?dl=0)]  
 
-<!--
-
 **Lecture 18** -- Loss functions and regression [[slides](https://docs.google.com/presentation/d/16QlQtkRKXLzQ2GuBn9oJ8Urm1MFTT-jkMv2FDbKMueg/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-18)] [[video](https://www.dropbox.com/s/fb0c1pp3z04wbdw/lecture_18.mp4?dl=0)]  
 
 **Lecture 19** -- Maximum likelihood [[slides](https://docs.google.com/presentation/d/1PzxL0LCTNXXFCMnnfX2R0o9VaR8WUtlrk9n2c-fCQGA/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-19)] [[video](https://www.dropbox.com/s/r20928ohapi0gfw/lecture_19.mp4?dl=0)]  
+
+<!--
 
 **Lecture 20** -- Bayesian inference [[slides](https://docs.google.com/presentation/d/17GuHPWPfNWidP62eAhN2zjvCrqjA774suTqcUI2sLoE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2020/lecture-20)] [[video](https://www.dropbox.com/s/wxkdfgkh2pgt53d/lecture_20.mp4?dl=0)]  
 
@@ -79,9 +79,8 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 7** -- Optimization for physics [[assignment](https://classroom.github.com/a/68C_MwmF)]  
 
-<!--
-**Homework 8** -- Inference for the Ising model [[assignment]()]  
--->
+**Homework 8** -- Inference for the Ising model [[assignment](https://classroom.github.com/a/xtRxlgz3)]  
+
 
 ## Past versions of the course
 
