@@ -1,5 +1,5 @@
 # Physics 177: Computational Physics
-### Fall 2020
+### Spring 2022
 
 
 **Topic 1: Course overview and introduction to Python**  

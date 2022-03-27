@@ -1,5 +1,5 @@
 # Physics 177: Computational Physics
-### Fall 2020
+### Spring 2022
 
 
 # Midterm mini-project
@@ -18,7 +18,7 @@ The midterm need not contain any code (but could point to a final project that i
 
 ### Due date
 
-Friday, November 20
+TBD
 
 ### Other notes
 

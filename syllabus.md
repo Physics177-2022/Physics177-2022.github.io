@@ -1,11 +1,11 @@
 # Physics 177: Computational Physics
-### Fall 2020
+### Spring 2022
 
 
 # Logistics
 
 ### Lecture
-By video, 2-3 times per week. Video links will be on the course homepage.
+In person (?) in Winston Chung Hall 143 from 2 - 3:20 pm Mondays and Wednesdays.
 
 ### Instructor
 Prof. John P. Barton  
@@ -13,7 +13,7 @@ MRB 3116
 john.barton@ucr.edu  
 
 ### Office hours
-Weekly office hours via Zoom. See the Slack group for weekly details on the meeting time.
+Weekly office hours by appointment via Zoom. See the Slack group for more details.
 
 
 # Course summary

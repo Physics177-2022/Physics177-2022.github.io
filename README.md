@@ -3,8 +3,8 @@
 [Syllabus](./syllabus.html)  
 [Schedule](./schedule.html)  
 <!--
-[Midterm](./midterm.html) [[assignment](https://classroom.github.com/a/yBtBIhG4)]  
-[Final](./final.html) [[assignment](https://classroom.github.com/a/Dyqe6RVR)]
+[Midterm](./midterm.html) [[assignment]()]  
+[Final](./final.html) [[assignment]()]
 -->
 
 Information for the course, including homework assignments and information about exams, will be posted here as we progress through the quarter.
@@ -64,22 +64,23 @@ Information for the course, including homework assignments and information about
 
 Follow the **assignment** links below to work on and submit each homework through GitHub Classroom.
 
-**Homework 1** -- Introduction to Python, Jupyter, and Github [[assignment](https://classroom.github.com/a/d_ul-qMO)]  
+**Homework 1** -- Introduction to Python, Jupyter, and Github [[assignment](https://classroom.github.com/a/rXJKfKSU)]  
 
-**Homework 2** -- Numerical integration [[assignment](https://classroom.github.com/a/06fLzJZb)]  
+<!--
+**Homework 2** -- Numerical integration [[assignment]()]  
 
-**Homework 3** -- Numerical integration of ordinary differential equations [[assignment](https://classroom.github.com/a/cvNHZ6x9)]  
+**Homework 3** -- Numerical integration of ordinary differential equations [[assignment]()]  
 
-**Homework 4** -- Different approaches to numerical integration of differential equations [[assignment](https://classroom.github.com/a/TKJoRO-2)]  
+**Homework 4** -- Different approaches to numerical integration of differential equations [[assignment]()]  
 
-**Homework 5** -- Statistical physics of a rubber band [[assignment](https://classroom.github.com/a/ADZ1LWBv)]  
+**Homework 5** -- Statistical physics of a rubber band [[assignment]()]  
 
-**Homework 6** -- Simulating the Ising model [[assignment](https://classroom.github.com/a/ZelgOGw6)]  
+**Homework 6** -- Simulating the Ising model [[assignment]()]  
 
-**Homework 7** -- Optimization for physics [[assignment](https://classroom.github.com/a/68C_MwmF)]  
+**Homework 7** -- Optimization for physics [[assignment]()]  
 
-**Homework 8** -- Inference for the Ising model [[assignment](https://classroom.github.com/a/xtRxlgz3)]  
-
+**Homework 8** -- Inference for the Ising model [[assignment]()]  
+-->
 
 ## Past versions of the course
 
