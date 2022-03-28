@@ -14,9 +14,8 @@ Information for the course, including homework assignments and information about
 
 **Lecture 0** -- Introduction to Physics 177 [[slides](https://docs.google.com/presentation/d/18OEE9wrG_oPGEvwdpJX-H16t4r9NXP2Ypj_-R9clOjo/edit?usp=sharing)]
 
-<!--
 **Lecture 1** -- Python, Jupyter, and GitHub [[slides](https://docs.google.com/presentation/d/1uwKIwAtWNpgKMqp82YVPvYHwYaKg541jJriF5n5JW34/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-1)]
-
+<!--
 **Lecture 2** -- Numerical precision [[slides](https://docs.google.com/presentation/d/1zM-F4qcHrYZzNC34wqALjIr9JuTbAhrP3a4bLs02PuE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-2)]
 
 **Lecture 3** -- Numerical integration: Riemann sum and trapezoidal rule [[slides](https://docs.google.com/presentation/d/1LC7I4bua6qyRSEvKwDmXMh9Dl1NIvOVjf1TAS_6L8mY/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-3)]
