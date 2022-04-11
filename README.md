@@ -20,14 +20,14 @@ Information for the course, including homework assignments and information about
 
 **Lecture 3** -- Numerical integration: Riemann sum and trapezoidal rule [[slides](https://docs.google.com/presentation/d/1LC7I4bua6qyRSEvKwDmXMh9Dl1NIvOVjf1TAS_6L8mY/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-3)]
 
-
-<!--
 **Lecture 4** -- Numerical integration: Simpson's rule [[slides](https://docs.google.com/presentation/d/1PlDw9VQzpxlnPPxvoBrlPKCTcZ-I4CFSIwLJyRzYOJU/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-4)]
 
 **Lecture 5** -- Numerical integration: Error analysis [[slides](https://docs.google.com/presentation/d/13XYPYKhVoVPOLHLJ_m1uU_4Mbw6gCpJssPmUGjE9jkk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-5)]  
 
 **Lecture 6** -- Differential equations: Euler's method [[slides](https://docs.google.com/presentation/d/1tO2zYWGIQ4eyN-z87D6DsbL91OEXzTw5GHKwP8YAoQw/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-6)]
 
+
+<!--
 **Lecture 7** -- Differential equations: the Runge-Kutta and leapfrog methods [[slides](https://docs.google.com/presentation/d/1xVs188-mo_Ev0in_elibRFXXfeHy6r7bUqEg0C7wJ2I/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-7)]
 
 **Lecture 8** -- Random number generation [[slides](https://docs.google.com/presentation/d/1R9YHnxeLzwnKEuFQ5rCOyIcLRfYDGm97p6_EoEC_Ieg/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-8)]
@@ -67,9 +67,9 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 1** -- Introduction to Python, Jupyter, and Github [[assignment](https://classroom.github.com/a/rXJKfKSU)]  
 
-<!--
-**Homework 2** -- Numerical integration [[assignment]()]  
+**Homework 2** -- Numerical integration [[assignment](https://classroom.github.com/a/TOBmqtFK)]  
 
+<!--
 **Homework 3** -- Numerical integration of ordinary differential equations [[assignment]()]  
 
 **Homework 4** -- Different approaches to numerical integration of differential equations [[assignment]()]  
