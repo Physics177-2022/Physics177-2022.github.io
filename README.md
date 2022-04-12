@@ -26,10 +26,10 @@ Information for the course, including homework assignments and information about
 
 **Lecture 6** -- Differential equations: Euler's method [[slides](https://docs.google.com/presentation/d/1tO2zYWGIQ4eyN-z87D6DsbL91OEXzTw5GHKwP8YAoQw/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-6)]
 
-
-<!--
 **Lecture 7** -- Differential equations: the Runge-Kutta and leapfrog methods [[slides](https://docs.google.com/presentation/d/1xVs188-mo_Ev0in_elibRFXXfeHy6r7bUqEg0C7wJ2I/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-7)]
 
+
+<!--
 **Lecture 8** -- Random number generation [[slides](https://docs.google.com/presentation/d/1R9YHnxeLzwnKEuFQ5rCOyIcLRfYDGm97p6_EoEC_Ieg/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-8)]
 
 **Lecture 9** -- Calculations with probability distributions [[slides](https://docs.google.com/presentation/d/1Eok4MSTOHDBv3husQC8Q79YcCtVvv4E1wg-oVtdbUrs/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-9)]  
@@ -69,9 +69,9 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 2** -- Numerical integration [[assignment](https://classroom.github.com/a/TOBmqtFK)]  
 
-<!--
-**Homework 3** -- Numerical integration of ordinary differential equations [[assignment]()]  
+**Homework 3** -- Numerical integration of ordinary differential equations [[assignment](https://classroom.github.com/a/3JBrOeix)]  
 
+<!--
 **Homework 4** -- Different approaches to numerical integration of differential equations [[assignment]()]  
 
 **Homework 5** -- Statistical physics of a rubber band [[assignment]()]  
