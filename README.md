@@ -28,12 +28,12 @@ Information for the course, including homework assignments and information about
 
 **Lecture 7** -- Differential equations: the Runge-Kutta and leapfrog methods [[slides](https://docs.google.com/presentation/d/1xVs188-mo_Ev0in_elibRFXXfeHy6r7bUqEg0C7wJ2I/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-7)]
 
-
-<!--
 **Lecture 8** -- Random number generation [[slides](https://docs.google.com/presentation/d/1R9YHnxeLzwnKEuFQ5rCOyIcLRfYDGm97p6_EoEC_Ieg/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-8)]
 
 **Lecture 9** -- Calculations with probability distributions [[slides](https://docs.google.com/presentation/d/1Eok4MSTOHDBv3husQC8Q79YcCtVvv4E1wg-oVtdbUrs/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-9)]  
 
+
+<!--
 **Lecture 10** -- Probability and statistical physics I [[slides](https://docs.google.com/presentation/d/1BZj8mhxh3AnkA6dYaDxmyur7qPnHTRFzyj_z-lZjmPk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-10)]
 
 **Lecture 11** -- Probability and statistical physics II [[slides](https://docs.google.com/presentation/d/1norjKSnjlzRYD55CMWXxnL1bzqf0XyiOOW_tLeAkenI/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-11)]
