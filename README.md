@@ -32,11 +32,12 @@ Information for the course, including homework assignments and information about
 
 **Lecture 9** -- Calculations with probability distributions [[slides](https://docs.google.com/presentation/d/1Eok4MSTOHDBv3husQC8Q79YcCtVvv4E1wg-oVtdbUrs/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-9)]  
 
-
-<!--
 **Lecture 10** -- Probability and statistical physics I [[slides](https://docs.google.com/presentation/d/1BZj8mhxh3AnkA6dYaDxmyur7qPnHTRFzyj_z-lZjmPk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-10)]
 
 **Lecture 11** -- Probability and statistical physics II [[slides](https://docs.google.com/presentation/d/1norjKSnjlzRYD55CMWXxnL1bzqf0XyiOOW_tLeAkenI/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-11)]
+
+
+<!--
 
 **Lecture 12** -- The Ising model [[slides](https://docs.google.com/presentation/d/1Bq0s8SzeyrNy10290mp6neGjcZe8keoOSXScgbpO-YQ/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-12)]
 
@@ -71,8 +72,10 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 3** -- Numerical integration of ordinary differential equations [[assignment](https://classroom.github.com/a/3JBrOeix)]  
 
+**Homework 4** -- Different approaches to numerical integration of differential equations [[assignment](https://classroom.github.com/a/qImOip4Q)]  
+
+
 <!--
-**Homework 4** -- Different approaches to numerical integration of differential equations [[assignment]()]  
 
 **Homework 5** -- Statistical physics of a rubber band [[assignment]()]  
 
