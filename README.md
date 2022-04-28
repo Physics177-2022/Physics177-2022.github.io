@@ -2,8 +2,8 @@
 
 [Syllabus](./syllabus.html)  
 [Schedule](./schedule.html)  
+[Midterm](./midterm.html) [[assignment](https://classroom.github.com/a/5P1QmhuO)]
 <!--
-[Midterm](./midterm.html) [[assignment]()]  
 [Final](./final.html) [[assignment]()]
 -->
 
@@ -36,12 +36,11 @@ Information for the course, including homework assignments and information about
 
 **Lecture 11** -- Probability and statistical physics II [[slides](https://docs.google.com/presentation/d/1norjKSnjlzRYD55CMWXxnL1bzqf0XyiOOW_tLeAkenI/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-11)]
 
-
-<!--
-
 **Lecture 12** -- The Ising model [[slides](https://docs.google.com/presentation/d/1Bq0s8SzeyrNy10290mp6neGjcZe8keoOSXScgbpO-YQ/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-12)]
 
 **Lecture 13** -- Markov chain Monte Carlo [[slides](https://docs.google.com/presentation/d/10qzW4JEiY8aPTJXIo6GpMRfDz6T7SX1blD1UjKtpXso/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-13)]
+
+<!--
 
 **Lecture 14** -- Practical MCMC [[slides](https://docs.google.com/presentation/d/1U3mbTdfIHckrnUmm4WYfdRgOqZKf6_mRCydyMAtK9qU/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-14)]
 
@@ -74,10 +73,10 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 4** -- Different approaches to numerical integration of differential equations [[assignment](https://classroom.github.com/a/qImOip4Q)]  
 
+**Homework 5** -- Statistical physics of a rubber band [[assignment](https://classroom.github.com/a/f9sJ5-et)]  
+
 
 <!--
-
-**Homework 5** -- Statistical physics of a rubber band [[assignment]()]  
 
 **Homework 6** -- Simulating the Ising model [[assignment]()]  
 

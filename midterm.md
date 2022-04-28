@@ -18,7 +18,7 @@ The midterm need not contain any code (but could point to a final project that i
 
 ### Due date
 
-TBD
+Friday, May 13
 
 ### Other notes
 
