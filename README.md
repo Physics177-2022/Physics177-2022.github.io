@@ -40,9 +40,9 @@ Information for the course, including homework assignments and information about
 
 **Lecture 13** -- Markov chain Monte Carlo [[slides](https://docs.google.com/presentation/d/10qzW4JEiY8aPTJXIo6GpMRfDz6T7SX1blD1UjKtpXso/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-13)]
 
-<!--
-
 **Lecture 14** -- Practical MCMC [[slides](https://docs.google.com/presentation/d/1U3mbTdfIHckrnUmm4WYfdRgOqZKf6_mRCydyMAtK9qU/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-14)]
+
+<!--
 
 **Lecture 15** -- Convex optimization [[slides](https://docs.google.com/presentation/d/17tnKjbaeyEJLcUoXCB4zYcHWof6GYj5QpCkDtKczaa0/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-15)]
 
