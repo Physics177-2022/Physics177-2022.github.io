@@ -42,10 +42,9 @@ Information for the course, including homework assignments and information about
 
 **Lecture 14** -- Practical MCMC [[slides](https://docs.google.com/presentation/d/1U3mbTdfIHckrnUmm4WYfdRgOqZKf6_mRCydyMAtK9qU/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-14)]
 
-<!--
-
 **Lecture 15** -- Convex optimization [[slides](https://docs.google.com/presentation/d/17tnKjbaeyEJLcUoXCB4zYcHWof6GYj5QpCkDtKczaa0/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-15)]
 
+<!--
 **Lecture 16** -- Line search [[slides](https://docs.google.com/presentation/d/1NSIa_IVbNNVsSHzDur2FYMK_q1yWKqTudWonzVLHNmo/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-16)]
 
 **Lecture 17** -- Newton's method [[slides](https://docs.google.com/presentation/d/13dK-lU-Q6_LtLlmFO8NWjmnP23LOeLAOLsH1FhUV6ac/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-17)]
@@ -75,11 +74,9 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 5** -- Statistical physics of a rubber band [[assignment](https://classroom.github.com/a/f9sJ5-et)]  
 
+**Homework 6** -- Simulating the Ising model [[assignment](https://classroom.github.com/a/4Mxv4-H0)]  
 
 <!--
-
-**Homework 6** -- Simulating the Ising model [[assignment]()]  
-
 **Homework 7** -- Optimization for physics [[assignment]()]  
 
 **Homework 8** -- Inference for the Ising model [[assignment]()]  
