@@ -4,7 +4,7 @@
 [Schedule](./schedule.html)  
 [Midterm](./midterm.html) [[assignment](https://classroom.github.com/a/5P1QmhuO)]
 <!--
-[Final](./final.html) [[assignment]()]
+[Final](./final.html) [[assignment](https://classroom.github.com/a/d-TJGen3)]
 -->
 
 Information for the course, including homework assignments and information about exams, will be posted here as we progress through the quarter.
@@ -44,11 +44,11 @@ Information for the course, including homework assignments and information about
 
 **Lecture 15** -- Convex optimization [[slides](https://docs.google.com/presentation/d/17tnKjbaeyEJLcUoXCB4zYcHWof6GYj5QpCkDtKczaa0/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-15)]
 
-<!--
 **Lecture 16** -- Line search [[slides](https://docs.google.com/presentation/d/1NSIa_IVbNNVsSHzDur2FYMK_q1yWKqTudWonzVLHNmo/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-16)]
 
 **Lecture 17** -- Newton's method [[slides](https://docs.google.com/presentation/d/13dK-lU-Q6_LtLlmFO8NWjmnP23LOeLAOLsH1FhUV6ac/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-17)]
 
+<!--
 **Lecture 18** -- Loss functions and regression [[slides](https://docs.google.com/presentation/d/16QlQtkRKXLzQ2GuBn9oJ8Urm1MFTT-jkMv2FDbKMueg/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-18)]
 
 **Lecture 19** -- Maximum likelihood [[slides](https://docs.google.com/presentation/d/1PzxL0LCTNXXFCMnnfX2R0o9VaR8WUtlrk9n2c-fCQGA/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-19)]
@@ -76,10 +76,10 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 6** -- Simulating the Ising model [[assignment](https://classroom.github.com/a/4Mxv4-H0)]  
 
-<!--
-**Homework 7** -- Optimization for physics [[assignment]()]  
+**Homework 7** -- Optimization for physics [[assignment](https://classroom.github.com/a/YXDVOLeu)]  
 
-**Homework 8** -- Inference for the Ising model [[assignment]()]  
+<!--
+**Homework 8** -- Inference for the Ising model [[assignment](https://classroom.github.com/a/tBSDOkj7)]  
 -->
 
 ## Past versions of the course

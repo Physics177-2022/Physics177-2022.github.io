@@ -18,7 +18,7 @@ Feel free to elaborate on and expand your midterm project for the final.
 
 ### Due date
 
-TBD
+June 10
 
 ### Other notes
 
