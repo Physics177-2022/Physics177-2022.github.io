@@ -55,6 +55,8 @@ Information for the course, including homework assignments and information about
 
 **Lecture 21** -- Data handling [[slides](https://docs.google.com/presentation/d/1BTXHlcyWAmslOX0YmIQF7qpdprUutIO0D7n8tu-CBJw/edit?usp=sharing)] [[repository](https://github.com/Physics177-2022/lecture-21)]
 
+
+<!--
 **Lecture 22** -- Outlook [[slides](https://docs.google.com/presentation/d/1AcBtp9fh8f-RcV20Yf1uKTpeMITAYFGcMx-cKfggjNo/edit?usp=sharing)]
 -->
 
